@@ -13,8 +13,6 @@ They are intentionally written to show transferable engineering decisions withou
 - [Invoice Request Artifact Workflow](invoice-request-artifact-workflow.md)
 - [High-Volume Browser Workflow Automation](high-volume-browser-workflow.md)
 - [Reference Validation Tool](reference-validation-tool.md)
-- [Approval Control Redesign](approval-control-redesign.md)
-- [Controlled Record Reassignment](controlled-record-reassignment.md)
 - [Excel / VBA Operations Suite](excel-vba-operations-suite.md)
 
 ## Evidence model

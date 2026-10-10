@@ -55,8 +55,6 @@ A few principles guide the work:
 - [Invoice Request Artifact Workflow](case-studies/invoice-request-artifact-workflow.md)
 - [High-Volume Browser Workflow Automation](case-studies/high-volume-browser-workflow.md)
 - [Reference Validation Tool](case-studies/reference-validation-tool.md)
-- [Approval Control Redesign](case-studies/approval-control-redesign.md)
-- [Controlled Record Reassignment](case-studies/controlled-record-reassignment.md)
 - [Excel / VBA Operations Suite](case-studies/excel-vba-operations-suite.md)
 
 ## Technical demos
