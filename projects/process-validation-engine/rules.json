@@ -1,0 +1,18 @@
+{
+  "rule_sets": [
+    {
+      "version": "2025.1",
+      "effective_from": "2025-01-01",
+      "eligible_categories": ["STANDARD", "PREMIUM"],
+      "maximum_amount": 10000,
+      "required_document": true
+    },
+    {
+      "version": "2026.1",
+      "effective_from": "2026-01-01",
+      "eligible_categories": ["STANDARD", "PREMIUM", "DIGITAL"],
+      "maximum_amount": 15000,
+      "required_document": true
+    }
+  ]
+}
