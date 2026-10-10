@@ -1,0 +1,6 @@
+record_id,owner,decision,comment,failure_mode
+DEMO-001,Analyst-A,REJECT,Fictional duplicate record,none
+DEMO-002,Analyst-B,REVIEW,Fictional manual review scenario,transient
+DEMO-003,Analyst-C,APPROVE,Fictional validation completed,none
+DEMO-004,Analyst-D,REJECT,Fictional required field missing,permanent
+DEMO-005,Analyst-A,APPROVE,Fictional record ready for completion,none
