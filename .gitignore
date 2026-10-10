@@ -1,0 +1,66 @@
+# Secrets and local configuration
+.env
+.env.*
+*.env
+secrets.*
+credentials.*
+config.local.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.crt
+*.cer
+*.jks
+*.keystore
+
+# Browser/session material
+cookies*.json
+session*.json
+*.har
+browser-profile/
+user-data-dir/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime output
+*.log
+logs/
+run_log.csv
+checkpoint.json
+output/
+outputs/
+artifacts/
+downloads/
+
+# Office / exported business files
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+*.docx
+*.pptx
+*.pdf
+*.zip
+*.7z
+
+# CSV exports are ignored by default; explicitly allow synthetic samples
+*.csv
+!projects/**/sample_*.csv
+!projects/**/fixtures/*.csv
+
+# Images/screenshots should be reviewed before publication
+screenshots/
