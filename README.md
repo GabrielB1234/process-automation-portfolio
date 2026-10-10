@@ -48,6 +48,8 @@ A few principles guide the work:
 
 ## Case studies
 
+- [Structured Validation Checklist Automation](case-studies/structured-validation-checklist-automation.md)
+- [Automated Reporting Workflow](case-studies/automated-reporting-workflow.md)
 - [Template & Data Preparation Automation](case-studies/template-data-preparation.md)
 - [Cross-Application Communication Workflow](case-studies/cross-application-communication.md)
 - [Invoice Request Artifact Workflow](case-studies/invoice-request-artifact-workflow.md)
