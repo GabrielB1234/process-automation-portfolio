@@ -6,6 +6,8 @@ They are intentionally written to show transferable engineering decisions withou
 
 ## Case studies
 
+- [Structured Validation Checklist Automation](structured-validation-checklist-automation.md)
+- [Automated Reporting Workflow](automated-reporting-workflow.md)
 - [Template & Data Preparation Automation](template-data-preparation.md)
 - [Cross-Application Communication Workflow](cross-application-communication.md)
 - [Invoice Request Artifact Workflow](invoice-request-artifact-workflow.md)
